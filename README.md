@@ -1,1 +1,1 @@
-# E-Commerce-Using-Next.js
+# COVID-19 Detector using Custom Made CNN
